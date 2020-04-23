@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [简介](/)
+* [简介](home.md)
 * [快速开始]()
     * [安装](start/install.md "安装 Coder PHP Framework")
     * [配置](start/config.md "配置 Coder PHP Framework")
