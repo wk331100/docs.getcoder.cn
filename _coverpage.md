@@ -1,10 +1,10 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](favicon.ico)
 
 # Coder PHP Framework <small>1.0</small>
 
-> [简单|高性能|开发效率高|学习成本低|不依赖其他程序].
+> [简单|高性能|开发效率高|学习成本低|不依赖其他程序]
 
 - 精简，轻量级 (~21kB)
 - 没有各种依赖
