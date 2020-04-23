@@ -11,4 +11,4 @@
 - 开发方便，便捷
 
 [GitHub](https://github.com/wk331100/coder_php_framework)
-[Get Started](#/home)
+[Get Started](/#/home)
